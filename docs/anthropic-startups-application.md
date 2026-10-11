@@ -4,26 +4,25 @@ These are draft answers based on the product description provided by the founder
 
 ## What are you building on Claude?
 
-> Nirvania.ai is building cognitive infrastructure for high-ticket enterprise workflows. We are developing an orchestration layer that can break complex B2B requests into bounded steps, coordinate specialized agents and business tools, and return verifiable outcomes with human review at important decision points. Our goal is to make multi-step operations easier to automate, inspect, and improve.
+> Nirvania.ai is building cognitive infrastructure for high-ticket enterprise workflows. We use Claude Code to develop an orchestration layer that decomposes complex B2B requests into bounded steps, coordinates specialized agents and approved business tools, and prepares verifiable outcomes for human review at consequential steps. We are validating the workflow and technical approach before customer deployment.
 
 Before submitting, make sure the company is actively building on Claude and adjust “are developing” to accurately reflect what exists today. Name the Claude model/API or Claude Code only if you actually use it.
 
 ## Where do you want support from Anthropic?
 
-> We’d value technical guidance on building reliable multi-agent workflows with Claude: how to decompose long-running tasks, constrain tool access, and evaluate quality across exception-heavy B2B operations. Applied AI office hours would help us validate the orchestration design, while the founder community and startup resources would help us turn our early-access product into a dependable, customer-ready platform.
+> We value practical guidance on building reliable multi-agent workflows with Claude, especially task decomposition, tool access, and quality evaluation in exception-heavy B2B operations. Applied AI office hours would help us validate orchestration, measure outcomes, and design appropriate human review. We would also benefit from the founder community and startup resources as we move Nirvania.ai from early development toward customer pilots.
 
 This answer asks for applied technical support and founder resources, without implying that Anthropic support or a product relationship already exists.
 
 ## Other fields in the form
 
-- **First and last name / job title:** use the founder's real name and role. The screenshot shows “Nirvania / AI” prefilled; replace those company words if they are not the founder's name.
+- **First and last name / job title:** Irving Garcia, Founder and CEO (provided by founder).
 - **Company name and website:** use a consistent legal or operating name and the working company domain. Ensure the site is publicly reachable when applying.
 - **Country and city:** Mexico and Tampico if that remains the company's actual base.
 - **Industry:** choose AI / software / enterprise software, whichever is available and most accurate.
-- **Founding date:** enter the incorporation date requested by the form, using company records. Do not guess.
-- **Funding round and investors:** select the current truthful stage; list only real investors. Bootstrapped and pre-seed companies may apply according to Anthropic's program FAQ.
-- **Outside funding in the last two years:** check only if the company actually raised external funding during that period.
-- **Anthropic monthly spend:** use the current billing/console figure. Choose zero or the closest truthful bracket if there is no spend.
+- **Founding date:** June 2025 (founder provided 25/06/2025); match the day/month order requested by the form.
+- **Funding round and investors:** founder reports pre-seed and outside funding in the last two years. Enter only confirmed investor names; bootstrapped and pre-seed companies may apply according to Anthropic's program FAQ.
+- **Anthropic monthly spend:** still needs the actual current billing/console figure. Choose zero or the closest truthful bracket only if that is accurate.
 - **LinkedIn:** provide the founder's real public profile URL. A company or search URL is not a substitute.
 - **Terms and email opt-in:** read and decide these directly. Email updates are optional; the terms acceptance is required to submit.
 
