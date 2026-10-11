@@ -29,7 +29,7 @@ The project does not need a `vercel.json` file or environment variables for the 
 
 ## Content to verify before launch
 
-- Replace the Founder LinkedIn search link in `app/page.tsx` with the founder's public profile URL.
+- Founder LinkedIn link points to `https://www.linkedin.com/in/irving-garcia-9065b2182/`.
 - Confirm the technology list still reflects the selected/current stack.
 - Confirm location and contact email are correct.
 - The workflow diagram and documentation describe product direction, not a live customer deployment or production integration.

@@ -48,7 +48,7 @@ export default function Home() {
         <nav aria-label="Main navigation" className="hidden items-center gap-8 text-xs text-zinc-400 md:flex">
           <a className="transition hover:text-white" href="#platform">Platform</a><a className="transition hover:text-white" href="#architecture">Architecture</a><a className="transition hover:text-white" href="#trust">Principles</a>
         </nav>
-        <a href="https://www.linkedin.com/search/results/people/?keywords=Irving%20Nirvania%20AI" target="_blank" rel="noreferrer" className="flex items-center gap-2 rounded-full border border-white/10 px-3.5 py-2 text-[11px] text-zinc-300 transition hover:border-white/25 hover:text-white sm:px-4 sm:text-xs">Founder LinkedIn <Arrow diagonal/></a>
+        <a href="https://www.linkedin.com/in/irving-garcia-9065b2182/" target="_blank" rel="noreferrer" className="flex items-center gap-2 rounded-full border border-white/10 px-3.5 py-2 text-[11px] text-zinc-300 transition hover:border-white/25 hover:text-white sm:px-4 sm:text-xs">Founder LinkedIn <Arrow diagonal/></a>
       </header>
 
       <section id="top" className="relative mx-auto max-w-7xl px-5 pb-20 pt-16 sm:px-8 sm:pb-24 sm:pt-24 lg:px-12 lg:pt-28">
